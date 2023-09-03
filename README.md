@@ -1,8 +1,13 @@
 
-<h1>
- ### Hi there  
+<h2>
+   Hi there  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 🛠  ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, React, React-Native, Typescript, Redux, JsX, Bootstrap
@@ -14,6 +19,8 @@
 - **Project Management Tool**: Jira, Trello, Asana
 - **Editor**: Visual Studio Code, Android Studio, Xcode 
 
+
+### :fire: My Stats :https://github-readme-streak-stats.herokuapp.com/?user=PALLAVIKHEDLE
 <!--
 **PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
