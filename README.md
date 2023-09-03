@@ -20,7 +20,9 @@
 - **Editor**: Visual Studio Code, Android Studio, Xcode 
 
 
-### :fire: My Stats :[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PALLAVIKHEDLE&theme=horizon&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
