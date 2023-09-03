@@ -1,19 +1,16 @@
 ### Hi there 👋
 
 
-🛠  Tech Stack
+🛠  ## Tech Stack
 
-JavaScript  React  Node.js  react-Native TypeScript
-Redux Jsx Bootstrap HTML  CSS Saas Ajax Json jQuery Realm 
-Git  AWS Code commit Jira, Trello Postman figma
-Visual Studio Code  Android studio Xcode 
-## Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript, React, React-Native, Typescript, Redux, JsX, Bootstrap
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Deployment**: Heroku
-- **Version Control**: Git, GitHub
+- **Database**: MongoDB, SQL, Realm
+- **Designing Tool**: Figma
+- **Version Control**: Git, GitHub, AWS code commit
+- **API Platform**:Postman, Swagger
+- **Project Management Tool**: Jira, Trello, Asana
+- **Editor**: Visual Studio Code, Android Studio, Xcode 
 
 <!--
 **PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
