@@ -27,7 +27,7 @@
 </div>
 
 
-🛠  <b>Tech Stack</b>
+### :hammer_and_wrench: Tech Stack :
 
 - **Frontend**: HTML, CSS, JavaScript, React, React-Native, Typescript, Redux, JsX, Bootstrap
 - **Backend**: Node.js, Express.js
