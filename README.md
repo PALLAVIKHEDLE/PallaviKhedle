@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+🛠  Tech Stack
+JavaScript  React  Node.js  react-Native TypeScript
+Redux Jsx Bootstrap HTML  CSS Saas Ajax Json jQuery Realm 
+Git  AWS Code commit Jira, Trello Postman figma
+Visual Studio Code  Android studio Xcode 
+
 <!--
 **PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
