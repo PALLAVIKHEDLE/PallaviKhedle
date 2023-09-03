@@ -5,7 +5,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="100"/>
 </div>
 
 🛠  ## Tech Stack
@@ -20,7 +20,7 @@
 - **Editor**: Visual Studio Code, Android Studio, Xcode 
 
 
-### :fire: My Stats :https://github-readme-streak-stats.herokuapp.com/?user=PALLAVIKHEDLE
+### :fire: My Stats :[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
