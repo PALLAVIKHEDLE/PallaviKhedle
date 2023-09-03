@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="100"/>
 </div>-->
 
-🛠  ## Tech Stack
+🛠  <b>Tech Stack</b>
 
 - **Frontend**: HTML, CSS, JavaScript, React, React-Native, Typescript, Redux, JsX, Bootstrap
 - **Backend**: Node.js, Express.js
