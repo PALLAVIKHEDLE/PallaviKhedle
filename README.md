@@ -37,7 +37,7 @@
 <img align="left"  width="45" height="45" alt="AWS"   src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 
 <!--Repo/Dependencies -->
-<img align="left"  width="45" height="45" alt="Maven"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg">
+<img align="left"  width="45" height="45" alt="Maven"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg&logoColor=white">
 <img align="left"  width="45" height="45" alt="Gradle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg">
 
 <!--Unit Testing-->
@@ -50,7 +50,7 @@
 <!--Code Management-->
 <img align="left"  width="45" height="45" alt="Git"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left"  width="45" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" width="45" height="45" alt="Xcode" src="https://i.imgur.com/L5ahelr.png">
+<img align="left" width="45" height="45" alt="android-studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img align="left" width="45" height="45" alt="Visual Studio Code"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <!--<img align="left"  width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left"  width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">-->
