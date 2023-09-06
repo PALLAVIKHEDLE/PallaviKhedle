@@ -19,11 +19,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img align="left"  width="45" height="45" alt="Angular"   src="https://angular.io/assets/images/logos/angular/angular.svg">&nbsp;
+  <img align="left"  width="45" height="45" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <!--Code Management-->
+  <img align="left"  width="45" height="45" alt="GitHub"   src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">&nbsp;
+  <img align="left" width="45" height="45" alt="Visual Studio Code"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <!--Repo/Dependencies -->
+  <img align="left"  width="45" height="45" alt="Maven"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg">&nbsp;
+  <img align="left"  width="45" height="45" alt="Gradle"   src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/gradle.svg">&nbsp;
+  
+  <!--Unit Testing-->
+  <img align="left"  width="45" height="45" alt="JUnit"   src="https://avatars.githubusercontent.com/u/874086?s=200&v=4">
+
 </div>
 
 
@@ -40,9 +53,30 @@
 
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PALLAVIKHEDLE&theme=horizon&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)   
+<p align="center"> 
+  <img  width="40%" alt="Pallavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PALLAVIKHEDLE&theme=horizon&show_icons=true" >
+  <img  width="40%" alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=PALLAVIKHEDLE&theme=horizon&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)" >
+  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" >
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br />
+
+<h2>🕵🏼 Find me over 🔭</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pallavi-khedle">
+    <img align="left" alt="Pallavi's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=pallavi&style=for-the-badge&color=blue" />
+  </a> <emsp> 
+  <a href="https://leetcode.com/pallavi_khedle/">
+    <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
+  </a>
+</p>
+
+
+
+
 
 <!--
 **PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
