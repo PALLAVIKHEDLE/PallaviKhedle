@@ -82,6 +82,7 @@
 <p align="center"> 
   <img  width="40%" alt="Pallavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PALLAVIKHEDLE&theme=horizon&show_icons=true" >&nbsp;&nbsp;
   <img  width="40%" alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=pallavikhedle&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
+<br/>
   <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
