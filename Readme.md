@@ -68,12 +68,12 @@
 
 ### :hammer_and_wrench: Tech Stack :
 
-- **Frontend**: HTML, CSS, JavaScript, React, React-Native, Typescript, Redux, JsX, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, jQuery, D3.js, React, React-Native, TypeScript, Redux, Context API, React Query, Zustand, JSX, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, SQL, Realm
 - **Designing Tool**: Figma
 - **Version Control**: Git, GitHub, AWS code commit
-- **API Platform**:Postman, Swagger
+- **API Platform**:Postman, Swagger, FastAPI 
 - **Project Management Tool**: Jira, Trello, Asana
 - **Editor**: Visual Studio Code, Android Studio, Xcode 
 
@@ -101,7 +101,6 @@
     <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
   </a>
 </p>
-
 
 
 
