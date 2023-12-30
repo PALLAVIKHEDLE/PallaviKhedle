@@ -68,7 +68,8 @@
 
 ### :hammer_and_wrench: Tech Stack :
 
-- **Frontend**: HTML, CSS, JavaScript, jQuery, D3.js, React, React-Native, TypeScript, Redux, Context API, React Query, Zustand, JSX, Bootstrap
+- **Frontend**: HTML, CSS, JavaScript, jQuery, D3.js, React, React-Native, TypeScript,
+                Redux, Context API, React Query, Zustand, JSX, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, SQL, Realm
 - **Designing Tool**: Figma
