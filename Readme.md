@@ -11,6 +11,25 @@
 </h1>
 </div>
 
+
+<h2>🕵🏼 Find me over 🔭</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pallavi-khedle">
+    <img align="left" alt="Pallavi's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=pallavi&style=for-the-badge&color=blue" />
+  </a> <emsp> 
+  <a href="https://leetcode.com/pallavi_khedle/">
+    <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
+  </a><emsp> 
+  <a href="https://medium.com/@pallavi8khedle">
+    <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Medium&message=Pallavi&style=for-the-badge&color=darkgrey" />
+  </a>
+</p>
+
+<br/>
+<br/>
+<br/>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="center">
@@ -92,16 +111,6 @@
 
 <br />
 
-<h2>🕵🏼 Find me over 🔭</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pallavi-khedle">
-    <img align="left" alt="Pallavi's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=pallavi&style=for-the-badge&color=blue" />
-  </a> <emsp> 
-  <a href="https://leetcode.com/pallavi_khedle/">
-    <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
-  </a>
-</p>
 
 
 
