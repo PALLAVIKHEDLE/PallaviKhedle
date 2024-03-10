@@ -3,6 +3,9 @@
 
 # Pallavi Khedle 💻
 <p>
+    <a href="https://pallavikhedle.github.io/PallaviKhedle/">
+    <img alt="Pallavi's Portfolio" width="150px" height=25 src="https://img.shields.io/static/v1?label=About Me&message=Pallavi&style=for-the-badge&color=darkgrey" />
+  </a>
 <a href="https://leetcode.com/pallavi_khedle/">
     <img alt="Pallavi's Leetcode" width="150px" height=25 src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
   </a>
