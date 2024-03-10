@@ -1,4 +1,23 @@
-<div id="header" align="center">
+
+
+
+# Pallavi Khedle 💻
+<p>
+<a href="https://leetcode.com/pallavi_khedle/">
+    <img alt="Pallavi's Leetcode" width="150px" height=25 src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
+  </a>
+<a href="https://medium.com/@pallavi8khedle"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
+<a href="https://www.linkedin.com/in/pallavi-khedle"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://stackoverflow.com/users/12095429/pallavi-khedle"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
+ </a> 
+</p>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PALLAVIKHEDLE" alt="PALLAVIKHEDLE" /> </p> 
+
+
+
+
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/pallavi-khedle/">
@@ -24,9 +43,8 @@
   <a href="https://medium.com/@pallavi8khedle">
     <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Medium&message=Pallavi&style=for-the-badge&color=darkgrey" />
   </a>
-</p>
+</p> -->
 
-<br/>
 <br/>
 <br/>
 
@@ -75,8 +93,6 @@
 <!--<img align="left"  width="45" height="45" alt="Terminal"   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left"  width="45" height="45" alt="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">-->
 <br />
-<!--Source-->
-<!---->
 </p>
 
 <br />
