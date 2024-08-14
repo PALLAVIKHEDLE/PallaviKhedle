@@ -10,7 +10,7 @@
     <img alt="Pallavi's Leetcode" width="150px" height=25 src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
   </a>
 <a href="https://medium.com/@pallavi8khedle"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
-<a href="https://www.linkedin.com/in/pallavi-khedle"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/pallavikhedle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://stackoverflow.com/users/12095429/pallavi-khedle"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p>
@@ -28,7 +28,7 @@
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/pallavi-khedle/">
+  <a href="https://www.linkedin.com/in/pallavikhedle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -42,7 +42,7 @@
 <h2>🕵🏼 Find me over 🔭</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pallavi-khedle">
+  <a href="https://www.linkedin.com/in/pallavikhedle/">
     <img align="left" alt="Pallavi's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=pallavi&style=for-the-badge&color=blue" />
   </a> <emsp> 
   <a href="https://leetcode.com/pallavi_khedle/">
