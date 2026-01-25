@@ -10,7 +10,7 @@
     <img alt="Pallavi's Leetcode" width="150px" height=25 src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
   </a>
 <a href="https://medium.com/@pallavi8khedle"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
-<a href="https://www.linkedin.com/in/pallavikhedle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/pallavi_khedle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://stackoverflow.com/users/12095429/pallavi-khedle"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p>
