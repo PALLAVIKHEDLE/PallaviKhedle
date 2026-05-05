@@ -2,56 +2,32 @@
 
 
 # Pallavi Khedle 💻
+
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+#### I am a tech enthusiast, I love to build cross-platform web and mobile Applications.
+
+
+<h2>🕵🏼 Find me over 🔭</h2>
 <p>
     <a href="https://pallavi.tech">
-    <img alt="Pallavi's Portfolio" width="150px" height=25 src="https://img.shields.io/static/v1?label=About Me&message=Pallavi&style=for-the-badge&color=darkgrey" />
+    <img alt="Pallavi's Portfolio" width="150px" height=25 src="https://img.shields.io/static/v1?label=About%20Me&message=Pallavi&style=for-the-badge&color=darkgrey" />
   </a>
 <a href="https://leetcode.com/pallavi_khedle/">
     <img alt="Pallavi's Leetcode" width="150px" height=25 src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
   </a>
-<a href="https://medium.com/@pallavi8khedle"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
-<a href="https://www.linkedin.com/in/pallavi-khedle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-<a href="https://stackoverflow.com/users/12095429/pallavi-khedle"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
+<a href="https://medium.com/@pallavi8khedle"><img src="https://aleen42.github.io/badges/src/medium.svg" width="110px" height=25></a> 
+<a href="https://www.linkedin.com/in/pallavi-khedle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height=25>
+<a href="https://stackoverflow.com/users/12095429/pallavi-khedle"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25 width="150px">
  </a> 
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PALLAVIKHEDLE" alt="PALLAVIKHEDLE" /> </p> 
-
-
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-#### I am a tech enthusiast, I love to build cross-platform Mobile Applications.
-
-<!--<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/pallavikhedle/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-
-<h2>🕵🏼 Find me over 🔭</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pallavikhedle/">
-    <img align="left" alt="Pallavi's LinkedIn" width="140px" src="https://img.shields.io/static/v1?label=LinkedIn&message=pallavi&style=for-the-badge&color=blue" />
-  </a> <emsp> 
-  <a href="https://leetcode.com/pallavi_khedle/">
-    <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Leetcode&message=Pallavi&style=for-the-badge&color=green" />
-  </a><emsp> 
-  <a href="https://medium.com/@pallavi8khedle">
-    <img align="left" alt="Pallavi's Leetcode" width="150px" src="https://img.shields.io/static/v1?label=Medium&message=Pallavi&style=for-the-badge&color=darkgrey" />
-  </a>
-</p> -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PALLAVIKHEDLE&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <br/>
 
@@ -122,33 +98,9 @@
 
 
 ## :fire: My Stats :
-<p align="center"> 
-
-  <img  width="40%" alt="Pallavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PALLAVIKHEDLE&theme=horizon&show_icons=true" >&nbsp;&nbsp;
-  <img  width="40%" alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=pallavikhedle&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
+ <p align="center"> 
+  <img  width="40%" height=180 alt="Github streak" src="http://github-readme-streak-stats.herokuapp.com?user=pallavikhedle&theme=python-dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly">
+     <img  width="35%" height=180 src="https://github-readme-activity-graph.vercel.app/graph?username=PALLAVIKHEDLE" />
 <br/>
-  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALLAVIKHEDLE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats">
+     <img  width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PALLAVIKHEDLE" />
 </p>
-
-
-
-<br />
-
-
-
-
-
-<!--
-**PALLAVIKHEDLE/PallaviKhedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
