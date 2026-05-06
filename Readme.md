@@ -1,10 +1,5 @@
-
-
-
-# Pallavi Khedle 💻
-
 <h1>
-  Hey there
+  Hey there 💻
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -86,9 +81,9 @@
 
 ### :hammer_and_wrench: Tech Stack :
 
-- **Frontend**: HTML, CSS, JavaScript, jQuery, D3.js, React, React-Native, TypeScript,
+- **Frontend**: HTML, CSS, JavaScript, jQuery, D3.js, React,Next.js, React-Native, TypeScript,
                 Redux, Context API, React Query, Zustand, JSX, Bootstrap
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js, GraphQL
 - **Database**: MongoDB, SQL, Realm
 - **Designing Tool**: Figma
 - **Version Control**: Git, GitHub, AWS code commit
